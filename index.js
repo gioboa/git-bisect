@@ -1,3 +1,3 @@
 const login = () => true;
 
-login() ? console.log('Benvenuto!') : console.log('Error'); 
+login() ? console.log('Benvenuto!') : console.log('Error');  
